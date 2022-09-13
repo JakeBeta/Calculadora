@@ -63,3 +63,5 @@ private int num1 = 0, num2 = 0;
 privete char sinal = '+';
 }
 ```
+
+IDE: INTELLIJ Aluno: Thiago dos Santos GRR20211601
